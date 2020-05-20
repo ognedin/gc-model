@@ -1,8 +1,8 @@
 # gc-model
   Model for the formation and evolution of globular cluster systems.
   
-  Current version is published in Choksi et al. 2018, MNRAS, 480, 2343 and
-  Choksi & Gnedin 2019, MNRAS, 486, 331.
+  Original version is published in Choksi et al. 2018, MNRAS, 480, 2343.
+  Current version is published in Choksi & Gnedin 2019, MNRAS, 486, 331.
 
   Download and unzip the catalog file z0_cat_mc7.0_8.8_0.58.txt.gz
 
