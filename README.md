@@ -6,5 +6,5 @@
 
   Download and unzip the catalog file z0_cat_mc7.0_8.8_0.58.txt.gz
 
-  Jupiter notebook gc_model.ipynb provides examples of reading the catalog
+  Jupyter notebook gc_model.ipynb provides examples of reading the catalog
   and making plots for Mgc-Mh relation and Age-Metallicity relation.
